@@ -150,7 +150,7 @@ The application uses SQLite to store:
 
 **Project Type:** Full Stack Web Development
 
-**Developer:** Abhishek Biradar
+**Developer:** DARSHINI
 
 ## 10. Conclusion
 
